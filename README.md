@@ -14,9 +14,9 @@
 
 ## 5.	Move the “DSP300” Directory into your locally created directory using Git Bash command
 
-## 6.	Push your local directory <named as fullname> from your Local Machine into your Github Account using Git Bash command.
+## 6.	Push your local directory (named as fullname) from your Local Machine into your Github Account using Git Bash command.
 *	Follow all the necessary steps in pushing your local repo into your github account from the PPT.
  
 ## 7.	Then email your Activity 1-2.doc
 # Email: alvinsarragaalon@hotmail.com
-# Subject: <DSP300> <Fullname>
+# Subject: DSP300 Juan Dela Cruz
