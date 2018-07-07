@@ -18,5 +18,5 @@
 *	Follow all the necessary steps in pushing your local repo into your github account from the PPT.
  
 ## 7.	Then email your Activity 1-2.doc
-Email: alvinsarragaalon@hotmail.com
-Subject: <DSP300> <Fullname>
+# Email: alvinsarragaalon@hotmail.com
+# Subject: <DSP300> <Fullname>
